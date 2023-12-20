@@ -217,13 +217,17 @@ libnfc를 불러오기 위한 옵션
 Pthread 라이브러리를 이용하기 위한 옵션
 
 # 하드웨어 구성
-- doorPi
+
+doorPi
+
 ![KakaoTalk_20231220_200939772](https://github.com/kumoh2023-Embedded-Team2/homePi/assets/127746054/e019df80-336d-47e7-9e36-8db11ca24618)
 
-- homePi
+homePi
+
 ![KakaoTalk_20231220_200939772_01](https://github.com/kumoh2023-Embedded-Team2/homePi/assets/127746054/c30a42ee-e4b6-460e-8c6b-75f20a47b5e1)
 
-- 전체 (doorPi+homePi)
+전체 (doorPi+homePi)
+
 ![KakaoTalk_20231220_200939772_02](https://github.com/kumoh2023-Embedded-Team2/homePi/assets/127746054/1bdf0532-91a3-48dc-a9d3-583d1855bd7f)
 
 # 실행 동영상 
