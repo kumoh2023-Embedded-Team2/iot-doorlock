@@ -192,7 +192,7 @@ device.connstring = "pn532_i2c:/dev/i2c-1"
 --- homePi 에서 실행함 ---
 /homePi/ $ make
 
-/homePi/ $ sudo ./doorPi
+/homePi/ $ ./homePi
 ```
 # 옵션
 
