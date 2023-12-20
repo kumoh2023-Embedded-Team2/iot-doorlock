@@ -53,31 +53,31 @@ doorPi의 기본이 되는 main.c파일을 비롯한 소스코드 파일들은 s
 
 # 사용모듈
 
-<img src="./readme_img/hw136.jpg" width="250" height="200"/>
+<img src="./doorPi/readme_img/hw136.jpg" width="250" height="200"/>
 
 HW136 넘버패드 모듈 - 4x4 터치인식 숫자패드
 
-<img src="./readme_img/pn532.png" width="250" height="200"/>
+<img src="./doorPi/readme_img/pn532.png" width="250" height="200"/>
 
 PN532 NFC 모듈 - NFC 인식 패드 + NFC 칩
 
-<img src="./readme_img/hc06.jpg" width="250" height="200"/>
+<img src="./doorPi/readme_img/hc06.jpg" width="250" height="200"/>
 
 HC06 블루투스 모듈 - 시리얼 통신 블루투스 통신 모듈
 
-<img src="./readme_img/rgbled.png" width="250" height="200"/>
+<img src="./doorPi/readme_img/rgbled.png" width="250" height="200"/>
 
 CH3 RGB LED 모듈 - RGB LED 모듈
 
-<img src="./readme_img/button.jpg" width="250" height="200"/>
+<img src="./doorPi/readme_img/button.jpg" width="250" height="200"/>
 
 Button 모듈 - H형 버튼 모듈
 
-<img src="./readme_img/buzzer.jpg" width="250" height="200"/>
+<img src="./doorPi/readme_img/buzzer.jpg" width="250" height="200"/>
 
 Buzzer 모듈 - H형 버튼 모듈
 
-<img src="./readme_img/servo.jpg" width="250" height="200"/>
+<img src="./doorPi/readme_img/servo.jpg" width="250" height="200"/>
 
 Servo 모터 모듈 - 각도 조절 저회전 모터
 
